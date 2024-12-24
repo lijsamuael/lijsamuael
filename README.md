@@ -4,7 +4,7 @@
 <div style="margin: 0; display: flex; justify-content: center; align-items: center; height: 100vh;">
     <a href="https://app.daily.dev/lijsamuael">
         <img src="https://api.daily.dev/devcards/v2/ZQktQRk7UJM0jEDSlSVU0.png?r=e40&type=default" 
-             width="1000" 
+             width="400" 
              alt="Samuael Ketema's Dev Card"/>
     </a>
 </div>
