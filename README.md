@@ -6,4 +6,4 @@
 
 - 📫 Phone +251 92 164 4607</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lijsamuael&" alt="lijsamuael" /></p>
+<p><img align="center" width="100" src="https://github-readme-streak-stats.herokuapp.com/?user=lijsamuael&" alt="lijsamuael" /></p>
