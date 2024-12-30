@@ -1,4 +1,4 @@
-<h3 align="center">React and Nextjs Developer</h3>
+<h3 align="start">React and Nextjs Developer</h3>
 
 - 👨‍💻 Portfolio [https://samuael-ketema-portfolio.vercel.app/](https://samuael-ketema-portfolio.vercel.app/)
 
