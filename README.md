@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lijsamuael.lijsamuael" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Samuael!;" />
@@ -10,11 +9,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Next.js & FastAPI**
+ 🔭 Next.js & FastAPI Developer**
  
  🌱 I’m currently learning **Blockchain**
 
-⚡ Fun fact **☕ I don't drink coffee, but I've been coding without it and still loving it! 🚀**
+⚡ **☕ I don't drink coffee, but I've been coding without it and still loving it! 🚀**
 
  </div>
  
