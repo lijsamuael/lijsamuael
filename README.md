@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 **Next.js** & **FastAPI** Developer**
+ 🔭 **Next.js** & **FastAPI** Developer
  
  🌱 I’m currently learning **Blockchain**
 
