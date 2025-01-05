@@ -50,7 +50,7 @@
 
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=lijsamuael&count_private=true&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=lijsamuael&count_private=true&border_radius=10" alt="streak. stats"/>
 </div>
 
 <br/><br/>
