@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 **Next.js** & **FastAPI** Developer
+ 🔭 **Next.js**,  **FastAPI** & **Frappe** Developer
  
- 🌱 I’m currently learning **Blockchain**
+ 🌱 Fullstack Software Engineer
 
 ⚡ **☕ I don't drink coffee**, but I've been coding without it and **still loving it! 🚀**
 
