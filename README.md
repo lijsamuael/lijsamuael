@@ -11,8 +11,6 @@
  
  🔭 **Next.js**,  **FastAPI** & **Frappe** Developer
  
- 🌱 Fullstack Software Engineer
-
 ⚡ **☕ I don't drink coffee**, but I've been coding without it and **still loving it! 🚀**
 
  </div>
