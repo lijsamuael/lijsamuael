@@ -4,7 +4,6 @@
 </h1>
 
 <h3 align="center">A Full Stack Software Engineer.</h3>
-
 <br/>
 
 <div align="center">
