@@ -17,9 +17,6 @@
   <a href="mailto:lijsamuael@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~0160e347e282b6b8fa" target="_blank">
-    <img width=100 height=40 src="https://logos-world.net/wp-content/uploads/2021/04/Upwork-Logo-1-500x281.png" target="_blank" />
-  </a>
   <a href="https://samuael-ketema-portfolio.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
