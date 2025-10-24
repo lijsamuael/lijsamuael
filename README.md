@@ -9,7 +9,7 @@
  
  🔭 **Next.js**,  **FastAPI** & **Frappe** Developer
  
-⚡ **☕ I don't drink coffee**, but I've been coding without it and **love it! 🚀**
+⚡ **☕ I don't drink coffee**, but I've been coding and **love it! 🚀**
 
  </div>
  
