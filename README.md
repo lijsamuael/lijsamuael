@@ -51,9 +51,7 @@
     <div>
       <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=lijsamuael&count_private=true&border_radius=10&theme=tokyonight&hide_border=true" alt="streak stats"/>
     </div>
-    <div>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lijsamuael&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-    </div>
+
   </div>
   
   <br/>
